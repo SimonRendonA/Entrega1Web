@@ -71,9 +71,7 @@ section {
   font-weight: bolder;
 }
 
-.list-group-item:hover {
-  background-color: #b9b6b2;
-}
+
 
 .galeria {
   margin: 10px;
@@ -140,11 +138,6 @@ h2 {
   border-style: solid;
 }
 
-.experiencias img:hover {
-  border: #2f3842;
-  border-radius: 1px;
-  border-style: solid;
-}
 
 .card img {
   width: 242;
@@ -154,5 +147,9 @@ h2 {
 footer {
   text-align: center;
   font-style: italic;
+}
+.margin-title{
+  margin: 10px ;
+  padding-top: 10px;
 }
 /*# sourceMappingURL=style.css.map */
